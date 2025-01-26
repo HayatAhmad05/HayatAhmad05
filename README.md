@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=sans-serif&weight=900&size=55&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&repeat=True&width=600&height=70&lines=Hi!+I'm+Hayat+Ahmad)](https://git.io/typing-svg#gh-light-mode-only)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=FiraCode&weight=900&size=55&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Hi!+I'm+Hayat+Ahmad)](https://git.io/typing-svg#gh-dark-mode-only)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=FiraCode&weight=900&size=55&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&repeat=True&width=600&height=70&lines=Hi!+I'm+Hayat+Ahmad)](https://git.io/typing-svg#gh-dark-mode-only)
 
 
 # Tech Stack
